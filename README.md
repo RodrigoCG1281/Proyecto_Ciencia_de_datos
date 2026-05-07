@@ -10,6 +10,17 @@ El objetivo principal de este proyecto es analizar y extraer *insights* sobre la
 * **Condori Gutierrez Rodrigo Bernardo** 
 * **Vilca Quispe Oscar Edy**
 
+## 🛠️ Tecnologías y Herramientas Utilizadas
+* **Entorno de Desarrollo:** Google Colab ☁️
+* **Lenguaje:** Python 3.x
+* **Librerías principales:** Pandas, NumPy, Matplotlib
+
+## 🚀 Cómo ejecutar este proyecto en Google Colab
+
+Haz clic en el siguiente botón para abrir nuestro notebook principal directamente en Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1DWJcbZAZqsLpbZ7U73qeFqdIESU0dvY8?usp=sharing))
+
 ## 📂 Sobre el Dataset
 Los datos utilizados en este proyecto provienen de la Plataforma Nacional de Datos Abiertos del gobierno peruano.
 
